@@ -1,1 +1,1 @@
-# AXIT-project
+# axit-responsive
